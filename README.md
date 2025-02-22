@@ -1,16 +1,17 @@
-## Hi there 👋
+## HALO GUYS🙌🏻🙌🏻
 
-<!--
-**kamaldev10/kamaldev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PERKENALKAN NAMA SAYA **ALI MUSTHAFA KAMAL**. </br>
 
-Here are some ideas to get you started:
+SAYA SEORANG MAHASISWA **UNIVERSITAS RIAU** </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JURUSAN **ILMU KOMPUTER** PROGRAM STUDI **SISTEM INFORMASI** </br>
+
+SAYA LULUSAN PROGRAM MBKM DI **BINAR ACADEMY** (2024,JUNIOR FRONT END DEVELOPER ) </br>
+
+SAAT INI SAYA SEDANG MENGIKUTI PROGRAM **FRONT-END BACK-END** DARI **DBS BOOTCAMP** YANG DITAJA OLEH **DICODING INDONESIA** (2025) </br>
+
+JIKA KAMU TERTARIK UNTUK BERKENALAN DENGAN KU, SILAHKAN KUNJUNGI AKUN </br>
+[LinkedIn](https://www.linkedin.com/in/kamal-dev)</br>
+[Instagram](https://www.instagram.com/alimusthafa10)</br>
+
+SPECIAL THANKS...
