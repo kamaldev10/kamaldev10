@@ -49,7 +49,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamaldev10&theme=moonlight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamaldev10&theme=moonlight&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamaldev10&theme=moonlight&utcOffset=7" alt="Productive Time" />
 </div>
 
 
