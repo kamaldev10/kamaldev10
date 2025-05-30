@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/kamaldev10/kamaldev10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kamaldev10/kamaldev10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
