@@ -1,30 +1,81 @@
-## HALO GUYS🙌🏻🙌🏻
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+  <h1><b>Hey there, I'm Ali Musthafa Kamal!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <p>
+    A passionate learner and developer exploring the vast universe of code. <br />
+    I'm currently a <strong>Computer Science</strong> student at <strong>Riau University</strong>, majoring in <strong>Information Systems</strong>. <br />
+    I love building things for the web and continuously expanding my skillset.
+  </p>
+</div>
 
-PERKENALKAN NAMA SAYA **ALI MUSTHAFA KAMAL**. </br>
+---
 
-SAYA SEORANG MAHASISWA **UNIVERSITAS RIAU** </br>
+## 🚀 My Journey & Current Focus
 
-JURUSAN **ILMU KOMPUTER** PROGRAM STUDI **SISTEM INFORMASI** </br>
+- 🎓 Graduated from **MBKM Program at Binar Academy** (2024) as a Junior Front-End Developer.  
+- 💻 Currently leveling up my skills in the **Front-End & Back-End Program by DBS Bootcamp x Dicoding Indonesia (2025)**.  
+- 💡 Always eager to learn new technologies and contribute to exciting projects!
 
-SAYA LULUSAN PROGRAM MBKM DI **BINAR ACADEMY** (2024, JUNIOR FRONT END DEVELOPER ) </br>
+---
 
-SAAT INI SAYA SEDANG MENGIKUTI PROGRAM **FRONT-END BACK-END** </br>
-DARI **DBS BOOTCAMP** YANG DITAJA OLEH **DICODING INDONESIA** (2025) </br>
+## 🛠️ My Tech Stack
 
-### Tech Stack
- <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<!--  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a> -->
-  <br>
-
-### Github Statistic
 <p align="left">
-<a href="https://github.com/kamaldev10">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamaldev10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamaldev10&layout=compact&layout=compact&theme=algolia"/>
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" height="36" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
 </p>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/kamal-dev">LinkedIn</a>
-- <a href= "https://www.instagram.com/alimusthafa10">alimusthafa10 </a>
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">     
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamaldev10&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaldev10&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamaldev10&theme=gruvbox" />
+</p>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/kamaldev10/kamaldev10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🌱 What I'm Currently Learning/Working On
+
+- Deepening my understanding of full-stack development.
+- Exploring advanced concepts in React and Node.js.
+- Building **[Judi Guard]** - Stay tuned!
+
+---
+
+## 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/alimusthafakamal/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/alimusthafa10" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:alimusthafakamal@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <p>Jangan lupa ngopi biar coding tetap hepi! 😄</p>
+</div>
