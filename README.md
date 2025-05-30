@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" height="36" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="tailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
@@ -59,21 +59,21 @@
 
 - Deepening my understanding of full-stack development.
 - Exploring advanced concepts in React and Node.js.
-- Building **[Judi Guard]** - Stay tuned!
+- Building **[ Judi Guard ]** - Stay tuned!
 
 ---
 
 ## 📫 Let's Connect!
 <p align="left">
-  <a href="https://www.linkedin.com/in/alimusthafakamal/" target="_blank">
+  <a href="https://www.linkedin.com/in/alimusthafakamal/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/alimusthafa10" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="Instagram" />
+  <a href="https://instagram.com/alimusthafa10" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:alimusthafakamal@gmail.com" target="_blank">
+  <a href="mailto:alimusthafakamal@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" alt="Email" />
   </a>
 </p>
