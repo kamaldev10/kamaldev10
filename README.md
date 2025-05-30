@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamaldev10/kamaldev10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
   <h1><b>Hey there, I'm Ali Musthafa Kamal!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   <p>
     A passionate learner and developer exploring the vast universe of code. <br />
@@ -33,21 +36,22 @@
 </p>
 
 ---
-
 ## 📊 My GitHub Stats
 
-<p align="center">     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamaldev10&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaldev10&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamaldev10&theme=moonlight" alt="Profile Details" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamaldev10&theme=gruvbox" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamaldev10&theme=moonlight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamaldev10&theme=moonlight" alt="Most Used Language" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kamaldev10/kamaldev10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamaldev10&theme=moonlight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamaldev10&theme=moonlight&utcOffset=8" alt="Productive Time" />
+</div>
+
 
 ---
 
