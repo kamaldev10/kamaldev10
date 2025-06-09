@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kamaldev10/kamaldev10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <div align="center">
   <h1><b>Hey there, I'm Ali Musthafa Kamal!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
@@ -28,12 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" height="36" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="tailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" height="36" alt="Express.js" />         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
 </p>
 
 ---
@@ -60,7 +56,8 @@
 
 - Deepening my understanding of full-stack development.
 - Exploring advanced concepts in React and Node.js.
-- Building **[ Judi Guard ]** - Stay tuned!
+- **[ Judi Guard ]** - was DONE!
+- Building **[ KasirKu ]** - Stay tuned!
 
 ---
 
@@ -80,7 +77,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamaldev10/kamaldev10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
+---
 <div align="center">
   <p>Jangan lupa ngopi biar coding tetap hepi! 😄</p>
 </div>
