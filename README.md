@@ -1,11 +1,13 @@
-
 <div align="center">
-  <h1><b>Hey there, I'm Ali Musthafa Kamal!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fascinate+Inline&size=42&pause=1000&color=F7D44A&center=true&vCenter=true&width=720&height=72&lines=WELCOME+TO+MY+GITHUB+PROFILE" alt="Typing SVG" /></a>  
+  <h1><b>Ali Musthafa Kamal</b></h1>
   <p>
     A passionate learner and developer exploring the vast universe of code. <br />
     I'm currently a <strong>Computer Science</strong> student at <strong>Riau University</strong>, majoring in <strong>Information Systems</strong>. <br />
     I love building things for the web and continuously expanding my skillset.
   </p>
+
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JpdGp6aXF1cnd5MW5oMHBzazhjajNsYXZrc3FwOWx0eGVuNHRvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyOCNEfXvVYEqB2/giphy.gif)
 </div>
 
 ---
@@ -39,6 +41,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamaldev10&theme=moonlight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamaldev10&theme=moonlight&utcOffset=7" alt="Productive Time" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=kamaldev10&theme=aura-dark&hide_border=true"/>
+  
 </div>
 
 ---
