@@ -66,10 +66,10 @@
   <a href="https://www.linkedin.com/in/alimusthafakamal/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/alimusthafa10" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram.svg" width="32" height="32" alt="Instagram" />
-  </a>
+<!--   &nbsp;&nbsp; -->
+<!--   <a href="https://instagram.com/alimusthafa10" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=6&origin=search&related_id=2111463" width="32" height="32" alt="Instagram" />
+  </a> -->
   &nbsp;&nbsp;
   <a href="mailto:alimusthafakamal@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" alt="Email" />
