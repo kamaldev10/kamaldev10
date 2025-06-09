@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamaldev10&theme=moonlight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamaldev10&theme=moonlight&utcOffset=7" alt="Productive Time" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=kamaldev10&theme=radical&hide_border=true"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=kamaldev10&theme=aura-dark&hide_border=true"/>
 </div>
 
 ---
