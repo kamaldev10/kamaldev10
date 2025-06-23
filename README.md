@@ -56,7 +56,9 @@
 - Deepening my understanding of full-stack development.
 - Exploring advanced concepts in React and Node.js.
 - **[ Judi Guard ]** - was DONE!
-- Building **[ KasirKu ]** - Stay tuned!
+- Building **[ My NextJS Portofolio ]** - Stay tuned!
+- Building **[ KasirDen ]** - Stay tuned!
+- Building **[ a Organization's Website ]** - Stay tuned!
 
 ---
 
