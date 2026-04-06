@@ -7,14 +7,19 @@
     I love building things for the web and continuously expanding my skillset.
   </p>
 
-![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JpdGp6aXF1cnd5MW5oMHBzazhjajNsYXZrc3FwOWx0eGVuNHRvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyOCNEfXvVYEqB2/giphy.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamaldev10/kamaldev10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 </div>
 
 ---
 
 ## 🚀 My Journey & Current Focus
 
-- 💡 Always eager to learn new technologies and contribute to exciting projects!
+- 💡 Enthusiast to learn new technologies and contribute to exciting projects!
 - 💻 Currently leveling up my skills in the **Full Stack Web Developer Programmed by DBS Foundation x Dicoding Indonesia (2026)**.  
 - 🎓 Graduated from **Front-End & Back-End Programmed by DBS Foundation x Dicoding Indonesia (2025)**.  
 - 🎓 Graduated from **Data Scientis Programmed by IDCamp x Dicoding Indonesia (2025)**.  
@@ -24,20 +29,8 @@
 
 ## 🛠️ My Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=plastic&logo=cypress&logoColor=058a5e) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+
 
 ---
 
@@ -61,38 +54,23 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kamaldev10&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
 ## 🌱 What I'm Currently Learning/Working On
 
 - Deepening my understanding of full-stack development.
 - Exploring advanced concepts in React and Node.js.
 - **[ Judi Guard ]** - was DONE!
 - **[ My NextJS Portofolio ]** - was DONE!
-- Building **[ KasirDen ]** - Stay tuned!
+- Building **[ KasirApp ]** - Stay tuned!
 - Building **[ a Organization's Website ]** - Stay tuned!
 
 ---
 
 ## 📫 Let's Connect!
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ali Musthafa Kamal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alimusthafa10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alimusthafakamal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alimusthafakamal@gmail.com) 
-
----
-
-### ✍️ Random Dev Quote
-<p  align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> 
-</p>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kamaldev10/kamaldev10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alimusthafa10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alimusthafakamal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alimusthafakamal@gmail.com) 
 
 ---
 <div align="center">
   <p>Jangan lupa ngopi biar coding tetap hepi! 😄</p>
 </div>
+
+
