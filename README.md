@@ -58,11 +58,9 @@
 
 - Deepening my understanding of full-stack development.
 - Exploring advanced concepts in React and Node.js.
-- **[ Judi Guard ]** - was DONE!
-- **[ My NextJS Portofolio ]** - was DONE!
-- Building **[ KasirApp ]** - Stay tuned!
+- Building **[ Street Watch - AI Powered Pothole Monitoring  ]** - Stay tuned!
 - Building **[ a Organization's Website ]** - Stay tuned!
-
+  
 ---
 
 ## 📫 Let's Connect!
