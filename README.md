@@ -56,7 +56,7 @@
 
 ## 🌱 What I'm Currently Learning/Working On
 
-- Deepening my understanding of full-stack development.
+- Deepening my understanding of Web Development.
 - Exploring advanced concepts in React and Node.js.
 - Building **[ Street Watch - AI Powered Pothole Monitoring  ]** - Stay tuned!
 - Building **[ a Organization's Website ]** - Stay tuned!
@@ -68,7 +68,7 @@
 
 ---
 <div align="center">
-  <p>Jangan lupa ngopi biar coding tetap hepi! 😄</p>
+  <p>Jangan lupa ngopi biar coding tetap hepiii! 😄</p>
 </div>
 
 
