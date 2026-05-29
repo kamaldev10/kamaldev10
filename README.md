@@ -3,7 +3,7 @@
   <h1><b>Ali Musthafa Kamal</b></h1>
   <p>
     A passionate learner and developer exploring the vast universe of code. <br />
-    I'm currently a <strong>Computer Science</strong> student at <strong>Riau University</strong>, majoring in <strong>Information Systems</strong>. <br />
+    I'm a <strong>Bachelor of Computer Science</strong> at <strong>Riau University</strong>. <br />
     I love building things for the web and continuously expanding my skillset.
   </p>
 
